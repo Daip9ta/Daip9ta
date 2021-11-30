@@ -37,7 +37,7 @@
         <img title="My Steam profile" src="https://cdn.discordapp.com/attachments/909980841768284203/915077590522413066/rsz_1image_2021-11-30_101111.png"/>
     </a>
   <a href="https://www.youtube.com/channel/UCoHc5rPFNaf628RHqbzHdjQ">
-        <img title="My Youtube" src="https://cdn.discordapp.com/attachments/909980841768284203/915098428869066802/rsz_1image_2021-11-30_113314.png"/>
+        <img title="My Youtube" src="https://cdn.discordapp.com/attachments/909980841768284203/915098944114155540/rsz_3image_2021-11-30_113600.png"/>
     </a>
 <a href="https://www.reddit.com/user/daip9ta">
         <img title="My Reddit" src="https://cdn.discordapp.com/attachments/909980841768284203/915098446548058152/rsz_1image_2021-11-30_113358.png"/>
