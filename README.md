@@ -1,9 +1,11 @@
-### Hi there 👋
-
-<!--
-**Daip9ta/Daip9ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ______   _______ _________ _______   _____ _________ _______ 
+(  __  \ (  ___  )\__   __/(  ____ ) / ___ \\__   __/(  ___  )
+| (  \  )| (   ) |   ) (   | (    )|( (   ) )  ) (   | (   ) |
+| |   ) || (___) |   | |   | (____)|( (___) |  | |   | (___) |
+| |   | ||  ___  |   | |   |  _____) \____  |  | |   |  ___  |
+| |   ) || (   ) |   | |   | (            ) |  | |   | (   ) |
+| (__/  )| )   ( |___) (___| )      /\____) )  | |   | )   ( |
+(______/ |/     \|\_______/|/       \______/   )_(   |/     \|
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
