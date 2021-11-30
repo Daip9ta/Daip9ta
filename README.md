@@ -1,18 +1,8 @@
- ______   _______ _________ _______   _____ _________ _______ 
-(  __  \ (  ___  )\__   __/(  ____ ) / ___ \\__   __/(  ___  )
-| (  \  )| (   ) |   ) (   | (    )|( (   ) )  ) (   | (   ) |
-| |   ) || (___) |   | |   | (____)|( (___) |  | |   | (___) |
-| |   | ||  ___  |   | |   |  _____) \____  |  | |   |  ___  |
-| |   ) || (   ) |   | |   | (            ) |  | |   | (   ) |
-| (__/  )| )   ( |___) (___| )      /\____) )  | |   | )   ( |
-(______/ |/     \|\_______/|/       \______/   )_(   |/     \|
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+==============================================
+😳 Baby, I'm Dai 😳
+==============================================
+- 🔭 Currently working on: HaoHanWeb
+- 🌱 secking: C++, Html, Css, JavaScript
+- 📫 You can contact me at: Daip9ta@gmail.com
+- 😄 From: Ha Noi, 🇻🇳
+- ⚡ Game: CSGO, blockgame.
