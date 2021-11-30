@@ -1,7 +1,7 @@
 😳 Baby, I'm Dai 😳
 ==============================================
-- 🔭 working on: HaoHanWeb
-- 🌱 secking: C++, Html, Css, JavaScript
+- 🔭 Working on: HaoHanWeb
+- 🌱 Secking: C++, Html, Css, JavaScript
 - 📫 You can contact me at: Daip9ta@gmail.com
 - 😄 From: Ha Noi, 🇻🇳
 - ⚡ Game: CSGO, blockgame.
