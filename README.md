@@ -22,7 +22,7 @@
 
 ## 📊 Stat: 📊
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daip9ta&&show_icons=true&title_color=ffffff&hide_boder=true&icon_color=bb2acf&text_color=daf7dc&bg_color=060A0CD0" alt="stat">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daip9ta&theme=black-ice&hide_boder=true&stroke=0000&background=060A0CD0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Daip9ta&&show_icons=true&title_color=ffffff&hide_border=true&icon_color=bb2acf&text_color=daf7dc&bg_color=060A0CD0" alt="stat">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daip9ta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daip9ta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </p>
