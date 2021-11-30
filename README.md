@@ -29,10 +29,17 @@
 <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daip9ta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </p>
   
-## 📦 Other: 📦
+## 📦 Connections: 📦
 <p align="center">
  <a href="https://open.spotify.com/user/pvx2cf1wwp36zqy5csl9t46ni">
         <img title="My Spotify" src="https://cdn.discordapp.com/attachments/909980841768284203/915076390792073276/rsz_1image_2021-11-30_100614.png"/>
   <a href="https://steamcommunity.com/profiles/76561199071270280">
-        <img title="My Spotify" src="https://cdn.discordapp.com/attachments/909980841768284203/915077590522413066/rsz_1image_2021-11-30_101111.png"/>
+        <img title="My Steam profile" src="https://cdn.discordapp.com/attachments/909980841768284203/915077590522413066/rsz_1image_2021-11-30_101111.png"/>
     </a>
+  <a href="https://www.youtube.com/channel/UCoHc5rPFNaf628RHqbzHdjQ">
+        <img title="My Youtube" src="https://cdn.discordapp.com/attachments/909980841768284203/915098428869066802/rsz_1image_2021-11-30_113314.png"/>
+    </a>
+<a href="https://www.reddit.com/user/daip9ta">
+        <img title="My Reddit" src="https://cdn.discordapp.com/attachments/909980841768284203/915098446548058152/rsz_1image_2021-11-30_113358.png"/>
+    </a>
+
