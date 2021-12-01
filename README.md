@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" height="50" style="vertical-align:top; margin:4px">
 </p>
 
-## 🛠️ Tool: 🛠️
+## 🛠️ Tools: 🛠️
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/909980841768284203/915070283294072852/rsz_1nvim-icon.png">
  <img src="https://cdn.discordapp.com/attachments/909980841768284203/915070900368470016/rsz_1200px-icon-vimsvg_1.png">
