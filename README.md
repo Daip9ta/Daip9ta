@@ -5,6 +5,7 @@
 - 📫 You can contact me at: Daip9ta@gmail.com
 - 😄 From: Ha Noi, 🇻🇳
 - ⚡ Game: CSGO, blockgame.
+- <img src="https://images-ext-2.discordapp.net/external/jVAsFBJ9N4xCOrKgMqliTXxDwzW0oYHm5HUtOjyQdR4/https/media.discordapp.net/attachments/909980841768284203/917335748536041492/99.gif?width=300&height=300">
 
 ## 🧰 Languages: 🧰
 <p align="center">
